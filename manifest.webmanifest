@@ -1,0 +1,16 @@
+{
+  "name": "شعر و تال غفور",
+  "short_name": "شعر و تال",
+  "description": "مدیریت شعر، راگ و تال موسیقی کلاسیک",
+  "lang": "fa-AF",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0B1329",
+  "theme_color": "#101A35",
+  "icons": [
+    {"src":"./icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
